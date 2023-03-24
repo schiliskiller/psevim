@@ -1,2 +1,2 @@
-DIRECCION="$HOME/Documentos/codigo"
-CONFIG="$HOME/Scripts/config"
+DIRECCION="/ponga/su/directorio"
+CONFIG="/ponga/su/configuracion"
